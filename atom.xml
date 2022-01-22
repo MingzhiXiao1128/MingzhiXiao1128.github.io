@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://masterxiao.github.io</id>
+    <id>https://MingzhiXiao1128.github.io</id>
     <title>小硕士&apos;s blog</title>
-    <updated>2022-01-22T14:13:30.026Z</updated>
+    <updated>2022-01-22T14:23:05.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://masterxiao.github.io"/>
-    <link rel="self" href="https://masterxiao.github.io/atom.xml"/>
+    <link rel="alternate" href="https://MingzhiXiao1128.github.io"/>
+    <link rel="self" href="https://MingzhiXiao1128.github.io/atom.xml"/>
     <subtitle>Welcome to Master Xiao&apos;s blog</subtitle>
-    <logo>https://masterxiao.github.io/images/avatar.png</logo>
-    <icon>https://masterxiao.github.io/favicon.ico</icon>
+    <logo>https://MingzhiXiao1128.github.io/images/avatar.png</logo>
+    <icon>https://MingzhiXiao1128.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 小硕士&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://masterxiao.github.io/post/hello-gridea/</id>
-        <link href="https://masterxiao.github.io/post/hello-gridea/">
+        <id>https://MingzhiXiao1128.github.io/post/hello-gridea/</id>
+        <link href="https://MingzhiXiao1128.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
